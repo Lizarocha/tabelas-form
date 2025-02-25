@@ -22,8 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             novaLinha.appendChild(colunaAutor);
 
             tabela.appendChild(novaLinha);
-
-            // Limpar os campos do formulário
+            
             tituloInput.value = "";
             autorInput.value = "";
         }
